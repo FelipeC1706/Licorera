@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|c:\\users\\josec\\onedrive\\documentos\\github\\licorera\\licorera\\licorera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|solutionrelative:licorera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Form1.cs",
+              "RelativeDocumentMoniker": "licorera\\Form1.cs",
+              "ToolTip": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "licorera\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:40:38.518Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
