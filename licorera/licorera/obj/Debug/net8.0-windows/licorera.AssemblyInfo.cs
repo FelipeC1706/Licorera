@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("licorera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b8e2a00ad664fffd8ae31eab60cb95ef2c7f62b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d93d90fa3157109ddcfab320401a7baa4d4b80ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("licorera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("licorera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
