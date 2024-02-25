@@ -8,5 +8,6 @@ namespace licorera.Clases
 {
     internal class Users
     {
+        public int id { get; set; }
     }
 }
