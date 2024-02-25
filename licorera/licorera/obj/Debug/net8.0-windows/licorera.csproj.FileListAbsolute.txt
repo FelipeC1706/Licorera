@@ -1,0 +1,17 @@
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\bin\Debug\net8.0-windows\licorera.exe
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\bin\Debug\net8.0-windows\licorera.deps.json
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\bin\Debug\net8.0-windows\licorera.runtimeconfig.json
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\bin\Debug\net8.0-windows\licorera.dll
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\bin\Debug\net8.0-windows\licorera.pdb
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.Form1.resources
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.csproj.GenerateResource.cache
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.AssemblyInfoInputs.cache
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.AssemblyInfo.cs
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.sourcelink.json
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.dll
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\refint\licorera.dll
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.pdb
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.genruntimeconfig.cache
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\ref\licorera.dll
