@@ -26,7 +26,7 @@ namespace licorera.Clases
             {
                 conexionDB.ConnectionString = cadenaConexion;
                 conexionDB.Open();
-                MessageBox.Show("BUENA ESE ES MI INGE");                                
+                //MessageBox.Show("BUENA ESE ES MI INGE");                                
             }
             catch (MySqlException ex)
             {

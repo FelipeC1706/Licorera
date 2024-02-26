@@ -105,6 +105,7 @@
             btnGuardarClient.TabIndex = 10;
             btnGuardarClient.Text = "Guardar";
             btnGuardarClient.UseVisualStyleBackColor = true;
+            btnGuardarClient.Click += btnGuardarClient_Click;
             // 
             // txtTelefonoClient
             // 
