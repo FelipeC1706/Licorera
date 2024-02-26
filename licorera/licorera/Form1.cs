@@ -1,3 +1,6 @@
+using licorera.Clases;
+using MySql.Data.MySqlClient;
+
 namespace licorera
 {
     public partial class Form1 : Form
@@ -5,6 +8,10 @@ namespace licorera
         public Form1()
         {
             InitializeComponent();
+
+            MySqlConnection conexionDB = Conexion.conexion();
+
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)

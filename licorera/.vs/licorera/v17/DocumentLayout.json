@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|c:\\users\\josec\\onedrive\\documentos\\github\\licorera\\licorera\\licorera\\clases\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|solutionrelative:licorera\\clases\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|c:\\users\\josec\\onedrive\\documentos\\github\\licorera\\licorera\\licorera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|solutionrelative:licorera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|c:\\users\\josec\\onedrive\\documentos\\github\\licorera\\licorera\\licorera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|solutionrelative:licorera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|c:\\users\\josec\\onedrive\\documentos\\github\\licorera\\licorera\\licorera\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|solutionrelative:licorera\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|c:\\users\\josec\\onedrive\\documentos\\github\\licorera\\licorera\\licorera\\clases\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|solutionrelative:licorera\\clases\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|c:\\users\\josec\\onedrive\\documentos\\github\\licorera\\licorera\\licorera\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|solutionrelative:licorera\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|c:\\users\\josec\\onedrive\\documentos\\github\\licorera\\licorera\\licorera\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7FD14C-DBA8-4149-ABA1-D07A43AA474A}|licorera\\licorera.csproj|solutionrelative:licorera\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Form1.cs",
+              "RelativeDocumentMoniker": "licorera\\Form1.cs",
+              "ToolTip": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Form1.cs*",
+              "RelativeToolTip": "licorera\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T23:30:29.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Clases\\Users.cs",
               "RelativeDocumentMoniker": "licorera\\Clases\\Users.cs",
               "ToolTip": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Clases\\Users.cs",
               "RelativeToolTip": "licorera\\Clases\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T23:08:50.003Z",
               "EditorCaption": ""
@@ -44,25 +57,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CConexion.cs",
-              "DocumentMoniker": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Clases\\CConexion.cs",
-              "RelativeDocumentMoniker": "licorera\\Clases\\CConexion.cs",
-              "ToolTip": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Clases\\CConexion.cs",
-              "RelativeToolTip": "licorera\\Clases\\CConexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T22:56:30.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Clases\\Conexion.cs",
               "RelativeDocumentMoniker": "licorera\\Clases\\Conexion.cs",
-              "ToolTip": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Clases\\Conexion.cs",
-              "RelativeToolTip": "licorera\\Clases\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "ToolTip": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Clases\\Conexion.cs*",
+              "RelativeToolTip": "licorera\\Clases\\Conexion.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T22:54:23.678Z",
               "EditorCaption": ""
@@ -73,8 +73,8 @@
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Form1.cs",
               "RelativeDocumentMoniker": "licorera\\Form1.cs",
-              "ToolTip": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "licorera\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Licorera\\licorera\\licorera\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "licorera\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T21:40:38.518Z",
               "EditorCaption": " [Dise\u00F1o]"
