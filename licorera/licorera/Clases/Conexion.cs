@@ -9,32 +9,37 @@ namespace licorera.Clases
 {
     internal class Conexion
     {
+        MySqlConnection conexionDB = new MySqlConnection();
 
-        public static MySqlConnection conexion() 
+        static string servidor = "localhost";
+        static string bd = "licorera";
+        static string usuario = "root";
+        static string password = "";
+
+        string cadenaConexion = "Database=" + bd + "; Data Source=" + servidor + "; User Id=" + usuario + "; Password=" + password + "";
+
+        public MySqlConnection open() 
         {
-            string servidor = "localhost";
-            string bd = "licorera";
-            string usuario = "root";
-            string password = "password";
-
-            string cadenaConexion = "Database=" + bd + "; Data Source=" + servidor + "; User Id=" + usuario + "; Password=" + password + "";
+            
 
             try
             {
-                MySqlConnection conexionDB = new MySqlConnection(cadenaConexion);
-
-                MessageBox.Show("BUENA ESE ES MI INGE");
-
-                return conexionDB;
+                conexionDB.ConnectionString = cadenaConexion;
+                conexionDB.Open();
+                MessageBox.Show("BUENA ESE ES MI INGE");                                
             }
             catch (MySqlException ex)
             {
-                Console.WriteLine("ERROR BRO: " + ex.Message);
-
-                return null;
+                MessageBox.Show("ERROR BRO UD ES MUY ESTUPIDO: " + ex.Message);
+                               
             }
 
+            return conexionDB;
+        }
 
+        public void close()
+        {
+            conexionDB.Close();
         }
 
     }

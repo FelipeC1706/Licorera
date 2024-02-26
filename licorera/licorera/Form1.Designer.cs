@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
+            btnFormulario2 = new Button();
             btnEliminar = new Button();
             btnModificar = new Button();
             btnGuardar = new Button();
@@ -49,6 +50,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(btnFormulario2);
             groupBox1.Controls.Add(btnEliminar);
             groupBox1.Controls.Add(btnModificar);
             groupBox1.Controls.Add(btnGuardar);
@@ -69,6 +71,16 @@
             groupBox1.TabStop = false;
             groupBox1.Text = "Datos Usuario";
             groupBox1.Enter += groupBox1_Enter;
+            // 
+            // btnFormulario2
+            // 
+            btnFormulario2.Location = new Point(15, 227);
+            btnFormulario2.Name = "btnFormulario2";
+            btnFormulario2.Size = new Size(199, 23);
+            btnFormulario2.TabIndex = 13;
+            btnFormulario2.Text = "Formulario 2";
+            btnFormulario2.UseVisualStyleBackColor = true;
+            btnFormulario2.Click += button1_Click;
             // 
             // btnEliminar
             // 
@@ -220,5 +232,6 @@
         private Button btnEliminar;
         private Button btnModificar;
         private Button btnGuardar;
+        private Button btnFormulario2;
     }
 }

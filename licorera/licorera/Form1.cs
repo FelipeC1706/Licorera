@@ -8,10 +8,6 @@ namespace licorera
         public Form1()
         {
             InitializeComponent();
-
-            MySqlConnection conexionDB = Conexion.conexion();
-
-            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -32,6 +28,12 @@ namespace licorera
         private void label3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form form = new Form2();
+            form.Show();
         }
     }
 }

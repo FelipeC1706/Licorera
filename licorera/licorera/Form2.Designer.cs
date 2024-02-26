@@ -54,6 +54,7 @@
             dgvTablaCliente.Name = "dgvTablaCliente";
             dgvTablaCliente.Size = new Size(570, 354);
             dgvTablaCliente.TabIndex = 3;
+            dgvTablaCliente.CellContentClick += dgvTablaCliente_CellContentClick;
             // 
             // groupBox1
             // 
