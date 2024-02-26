@@ -25,12 +25,16 @@ namespace licorera.Clases
             try
             {
                 conexionDB.ConnectionString = cadenaConexion;
+<<<<<<< Updated upstream
                 conexionDB.Open();
                 //MessageBox.Show("BUENA ESE ES MI INGE");                                
+=======
+                conexionDB.Open();                             
+>>>>>>> Stashed changes
             }
             catch (MySqlException ex)
             {
-                MessageBox.Show("ERROR BRO UD ES MUY ESTUPIDO: " + ex.Message);
+                MessageBox.Show("ERROR: " + ex.Message);
                                
             }
 

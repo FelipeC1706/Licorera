@@ -31,11 +31,17 @@ namespace licorera
 
         }
 
+<<<<<<< Updated upstream
         private void btnGuardarClient_Click(object sender, EventArgs e)
         {
             Cliente client = new Cliente();
             client.guardarClientes(txtCedulaClient, txtNombreClient, txtApellidoClient, txtCorreoClient, txtTelefonoClient);
             client.montrarClientes(dgvTablaCliente);
+=======
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+>>>>>>> Stashed changes
         }
     }
 }

@@ -63,3 +63,4 @@ C:\Users\USER\Documents\GitHub\Licorera\licorera\licorera\bin\Debug\net8.0-windo
 C:\Users\USER\Documents\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.csproj.CopyComplete
 C:\Users\USER\Documents\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.genruntimeconfig.cache
 C:\Users\USER\Documents\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\ref\licorera.dll
+C:\Users\josec\OneDrive\Documentos\GitHub\Licorera\licorera\licorera\obj\Debug\net8.0-windows\licorera.Form2.resources

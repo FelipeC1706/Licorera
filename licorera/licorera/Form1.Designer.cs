@@ -43,9 +43,9 @@
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
-            dataGridView1 = new DataGridView();
+            dgvTablaUsers = new DataGridView();
             groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dgvTablaUsers).BeginInit();
             SuspendLayout();
             // 
             // groupBox1
@@ -70,7 +70,6 @@
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
             groupBox1.Text = "Datos Usuario";
-            groupBox1.Enter += groupBox1_Enter;
             // 
             // btnFormulario2
             // 
@@ -108,6 +107,7 @@
             btnGuardar.TabIndex = 10;
             btnGuardar.Text = "Guardar";
             btnGuardar.UseVisualStyleBackColor = true;
+            btnGuardar.Click += btnGuardar_Click;
             // 
             // txtTelefonoUser
             // 
@@ -170,7 +170,6 @@
             label3.Size = new Size(47, 15);
             label3.TabIndex = 2;
             label3.Text = "Cedula:";
-            label3.Click += label3_Click;
             // 
             // label2
             // 
@@ -189,36 +188,34 @@
             label1.Size = new Size(59, 15);
             label1.TabIndex = 0;
             label1.Text = "Nombres:";
-            label1.Click += label1_Click;
             // 
-            // dataGridView1
+            // dgvTablaUsers
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(265, 24);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(570, 354);
-            dataGridView1.TabIndex = 1;
+            dgvTablaUsers.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvTablaUsers.Location = new Point(265, 24);
+            dgvTablaUsers.Name = "dgvTablaUsers";
+            dgvTablaUsers.Size = new Size(570, 354);
+            dgvTablaUsers.TabIndex = 1;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(847, 389);
-            Controls.Add(dataGridView1);
+            Controls.Add(dgvTablaUsers);
             Controls.Add(groupBox1);
             Name = "Form1";
             Text = "Form1";
-            Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dgvTablaUsers).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
         private GroupBox groupBox1;
-        private DataGridView dataGridView1;
+        private DataGridView dgvTablaUsers;
         private Label label5;
         private Label label4;
         private Label label3;

@@ -8,32 +8,30 @@ namespace licorera
         public Form1()
         {
             InitializeComponent();
-        }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
+            Users usuarios = new Users();
+            usuarios.montrarUsuarios(dgvTablaUsers);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             Form form = new Form2();
             form.Show();
+        }
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            String NombreUser = txtNombreUser.Text;
+            String ApellidoUser = txtApellidoUser.Text;
+            int CedulaUser = int.Parse(txtCedulaUser.Text);
+            String CorreoUser = txtCorreoUser.Text;
+            int Telefono = int.Parse(txtTelefonoUser.Text);
+
+
+            string sql = "INSERT INTO licorera (id_User, cedula_User, nombre_User, apellido_User, correo_User, telefono_User, status_User) VALUES ('" + CedulaUser + "','" + NombreUser + "','" + ApellidoUser + "','" + CorreoUser + "','" + Telefono + "')";
+
+            MySqlConnection conexionDB = 
+
         }
     }
 }

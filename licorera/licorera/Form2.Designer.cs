@@ -196,6 +196,7 @@
             Controls.Add(groupBox1);
             Name = "Form2";
             Text = "Form2";
+            Load += Form2_Load;
             ((System.ComponentModel.ISupportInitialize)dgvTablaCliente).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
