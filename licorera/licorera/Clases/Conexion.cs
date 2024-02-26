@@ -18,7 +18,7 @@ namespace licorera.Clases
 
         string cadenaConexion = "Database=" + bd + "; Data Source=" + servidor + "; User Id=" + usuario + "; Password=" + password + "";
 
-        public MySqlConnection open() 
+        public MySqlConnection Open() 
         {
             
 
@@ -37,7 +37,7 @@ namespace licorera.Clases
             return conexionDB;
         }
 
-        public void close()
+        public void Close()
         {
             conexionDB.Close();
         }
